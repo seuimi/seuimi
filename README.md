@@ -1,16 +1,19 @@
-## Hi there 👋
+# Seuimi // 스이미 (🐸)
+**파이썬을 사랑합니다. 아니 그냥 제 인생이고, 제 여친입니다. 히히히ㅣㅣ히히ㅛㅅ히ㅛㅎ힣히효**
 
-<!--
-**seuimi/seuimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 - 연락처
+**📧 - 이메일** : soo.wim3@gmail.com  
+**💬 - 디스코드** : [seuimi](https://discord.com/users/1441817690221056226)
 
-Here are some ideas to get you started:
+## 🐸 - 개인 프로젝트
+( 아직 하나도 없어요... 하지만! 엄청난 것을 만들어 내고 있어요..ㅎㅎ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🚀 - 기여 프로젝트
+| 기여 프로젝트 | 설명 | 기여 부분 | 링크 |
+|:--|:--|:--|:--|
+| **ddterm GNOME Shell Extension** | 그놈 데스크톱 환경 셸 확장 | 한글화 | [🌐 - 링크](https://github.com/ddterm/gnome-shell-extension-ddterm) |
+
+## 🏢 - 조직
+| 이름 | 팀 | 링크 |
+|:--|:--|:--|
+| **ddterm** | translators | [🌐 - 링크](https://github.com/ddterm) |
