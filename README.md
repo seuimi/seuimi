@@ -11,7 +11,9 @@
 ## 👨‍🚀 - 기여 프로젝트
 | 기여 프로젝트 | 설명 | 기여 부분 | 링크 |
 |:--|:--|:--|:--|
-| **ddterm GNOME Shell Extension** | 그놈 데스크톱 환경 셸 확장 | 한글화 | [🌐 - 링크](https://github.com/ddterm/gnome-shell-extension-ddterm) |
+| **ddterm GNOME Shell Extension** | 그놈 데스크톱 환경 셸 확장 | 한글화 | [🌐 - Github](https://github.com/ddterm/gnome-shell-extension-ddterm) |
+| **bgammon.org** | 온라인 백개먼 | 한글화 | [🌐 - Weblate](https://hosted.weblate.org/projects/bgammon/boxcars/ko/#information) |
+> bgammon.org는 한글화는 다 되었는데... 아직 커밋이 안 올라가서.. 개발자님! 일하세요!
 
 ## 🏢 - 조직
 | 이름 | 팀 | 링크 |
