@@ -19,3 +19,4 @@
 | 조직 이름 | 팀 | 링크 |
 |:--|:--|:--|
 | **ddterm** | translators | [🌐 - 링크](https://github.com/ddterm) |
+| **Seuimi STUDIO** | owner | [🌐 - 링크](https://github.com/Seuimi-STUDIO) |
