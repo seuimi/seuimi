@@ -2,6 +2,6 @@
 
 <div align="center">
   <a href="https://seuimi.xyz">
-    <img src="seuimi-hello.png" />
+    <img src="seuimi-hello.PNG" />
   </a>
 </div>
