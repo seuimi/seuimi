@@ -1,5 +1,4 @@
 [![Meeee](./Suyeong_Jang.png)](https://github.com/seuimi)
-- - -
 
 <div align="center">
   
