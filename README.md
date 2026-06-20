@@ -1,5 +1,7 @@
 [![Meeee](./Suyeong_Jang.png)](https://github.com/seuimi)
 
+> `with ./SUYEO`
+
 <div align="center">
 
   **🌱 // 기여 프로젝트 - Contributions**
