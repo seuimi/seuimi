@@ -7,8 +7,7 @@
   **🌱 // 기여 프로젝트 - Contributions**
   | 프로젝트 | 기여 내용 | 링크 |
   |---|---|---|
-  | 📑 - pypi/warehouse | 한국어 부분 번역 | [Github](https://github.com/pypi/warehouse) |
-  | 💻 - ddterm | 한국어 번역 & 번역 오류 수정 | [Github](https://github.com/ddterm/gnome-shell-extension-ddterm) |
+  | 💻 - ddterm | 한국어 번역 | [Github](https://github.com/ddterm/gnome-shell-extension-ddterm) |
 
 
 
