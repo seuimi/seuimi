@@ -14,6 +14,6 @@
   **🍅 // 프로젝트 - Project**
   | 프로젝트 | 설명 | 링크 |
   |---|---|---|
-  | ??? | ??? | [...](https://www.youtube.com/watch?v=Y7aEiVwBAdk) |
+  | WorldBestOrganicTomatoAIClinet | 세계 최강 AI | [Github](https://github.com/seuimi/worldbestorganictomatoaiclinet) |
   
 </div>
