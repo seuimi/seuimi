@@ -14,6 +14,6 @@
   **🍅 // 프로젝트 - Project**
   | 프로젝트 | 설명 | 링크 |
   |---|---|---|
-  | WorldBestOrganicTomatoAIClinet | 세계 최강 AI | [Github](https://github.com/seuimi/worldbestorganictomatoaiclinet) |
+  | Salaid | AI. | [Github](https://github.com/seuimi/salaid) |
   
 </div>
