@@ -14,6 +14,6 @@
   **🍅 // 프로젝트 - Project**
   | 프로젝트 | 설명 | 링크 |
   |---|---|---|
-  | Salaid | AI. | [Github](https://github.com/seuimi/salaid) |
+  |  |  |  |
   
 </div>
