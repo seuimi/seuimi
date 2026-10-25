@@ -14,6 +14,6 @@
   **🍅 // 프로젝트 - Project**
   | 프로젝트 | 설명 | 링크 |
   |---|---|---|
-  | **Localnux** | 커스텀 리눅스 네트워크 시스템 | [Github](https://github.com/seuimi/localinux) |
+  | ... | ... | ... |
   
 </div>
