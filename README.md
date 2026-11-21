@@ -14,6 +14,6 @@
   **🍅 // 프로젝트 - Project**
   | 프로젝트 | 설명 | 링크 |
   |---|---|---|
-  | ... | ... | ... |
+  | suo | 마인크래프트 간단한 거래 플러그인 | [Modrinth](https://modrinth.com/plugin/suo) / [Github](https://github.com/seuimi/suo) |
   
 </div>
